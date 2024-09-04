@@ -1,0 +1,1 @@
+int acc = sc.nextInt();
